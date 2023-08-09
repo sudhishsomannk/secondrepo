@@ -1,4 +1,4 @@
-name: Print Hello World
+name: Print message
 'on':
   push:
     branches:
